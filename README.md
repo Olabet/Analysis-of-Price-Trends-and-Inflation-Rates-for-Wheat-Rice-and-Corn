@@ -1,2 +1,2 @@
 # Analysis-of-Price-Trends-and-Inflation-Rates-for-Wheat-Rice-and-Corn
-The project aims to analyze the price trends and inflation rates for wheat, rice, and corn using a provided dataset. 
+The project aims to analyze the price trends and inflation rates for wheat, rice, and corn using a provided dataset. The focus of the analysis is to identify and understand the presence of seasonal patterns within the prices of these commodities and investigate the corresponding fluctuations in inflation rates. By uncovering and studying these seasonal patterns, valuable insights can be gained to assist stakeholders in decision-making processes related to the commodities market.
